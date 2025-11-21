@@ -249,6 +249,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Gmanrejuan**
 - GitHub: [@Gmanrejuan](https://github.com/Gmanrejuan)
+- GitHub: [@Mridul-1005](https://github.com/Mridul-1005)
 - Project Link: [https://github.com/Gmanrejuan/ML_Project](https://github.com/Gmanrejuan/ML_Project)
 
 ## 🙏 Acknowledgments
